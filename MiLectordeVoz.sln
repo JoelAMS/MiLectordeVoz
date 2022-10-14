@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLectordeVoz", "MiLectordeVoz\MiLectordeVoz.csproj", "{8B50E0B2-DE57-45D9-A572-D0608446EF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B50E0B2-DE57-45D9-A572-D0608446EF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B50E0B2-DE57-45D9-A572-D0608446EF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B50E0B2-DE57-45D9-A572-D0608446EF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B50E0B2-DE57-45D9-A572-D0608446EF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC332F3-0BD3-48A0-AD60-30B462F9636B}
+	EndGlobalSection
+EndGlobal
